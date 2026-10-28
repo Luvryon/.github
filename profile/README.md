@@ -46,7 +46,7 @@ We realized that small businesses and travel operators don't need overly complex
 We are building in public and always open to collaborations, feedback, and partnerships.
 
 - **Website:** [luvryon.com](https://luvryon.com)
-- **Business & Partnerships:** csupport@luvryon.com
+- **Business & Partnerships:** contact@luvryon.com
 - **Luvora Community:** Join us on [TikTok](https://www.tiktok.com/@luvora.go) or [Instagram](https://instagram.com/luvora_trip)
 
 *© 2026 Luvryon. Built with focus, transparency, and real-world experience.*
