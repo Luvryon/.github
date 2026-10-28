@@ -21,7 +21,7 @@ We are actively developing and operating a suite of products under the Luvryon u
 | :--- | :--- | :--- | :--- |
 | **🎒 Luvora** | Curated Open Trips, Ticket Wars & Travel Experiences. | ✅ **Active** | [TikTok](https://www.tiktok.com/@luvora.go) • [Instagram](https://instagram.com/luvora_trip) |
 | **📰 Ringkasin** | AI-powered news summarization with Text-to-Speech audio listening features. | 🟢 **Live (Beta)** | [ringkasin.luvryon.com](https://ringkasin.luvryon.com/) |
-| **🎧 Lumop** | Next-generation AI audio & information experience. | 🚀 **Launching Soon** | *Stay tuned* |
+| **🎧 Lumop** | AI Marketing Tools for Small Businesses. | 🚀 **Launching Soon** | *Stay tuned* |
 | **🛡️ LuviPay** | AI-driven revenue recovery, churn prevention, and dispute handling for subscriptions. | 🛠️ **Hackathon / Dev** | *Built for Atlassian/PayPal Hackathons* |
 
 ---
